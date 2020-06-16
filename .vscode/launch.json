@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open form_add_noticia.ejs",
+            "file": "/mnt/fc19b57b-6e0f-40db-9aec-f99d73cb06e0/Github/curso-completo-do-desenvolvedor-nodejs-udemy/app/views/admin/form_add_noticia.ejs"
+        }
+    ]
+}
